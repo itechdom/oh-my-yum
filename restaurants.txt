@@ -22,7 +22,7 @@ https://www.yelp.com/biz/turkish-kebab-house-pittsburgh?osq=turkish
 
 Mexican: 
 
-Las Palmas -Taco stands two locations Oakland & Brookline - https://www.yelp.com/biz/las-palmas-pittsburgh?osq=Mexican+Food
+Las Palmas - Taco stands two locations Oakland & Brookline - https://www.yelp.com/biz/las-palmas-pittsburgh?osq=Mexican+Food
 
 La Palapa - Mexican Food https://www.yelp.com/biz/la-palapa-mexican-gourmet-kitchen-pittsburgh
 
@@ -63,7 +63,6 @@ Salems - Middle Eastern/Indian - https://www.yelp.com/biz/salems-market-and-gril
 Dijlah - Iraqi Food - https://www.yelp.com/biz/dijlah-restaurant-and-cafe-pittsburgh
 
 Pitaland - Lebanese bakery with shawarma https://www.yelp.com/biz/pitaland-pittsburgh
-
 
 Japanese:
 Fujiya Ramen - https://www.yelp.com/biz/fujiya-ramen-pittsburgh-2
